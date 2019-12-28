@@ -29,7 +29,7 @@ body {
     float: left;
     width: auto;
     height: auto;
-    margin-left: -18%;
+    margin-left: -25%;
     padding-left: 3rem;
 }
 
@@ -66,7 +66,7 @@ body {
 }
 
 .nav div.main_list ul li a {
-    text-shadow: rgb(0, 0, 0) 1px 0 5px;
+    text-shadow: rgb(0, 0, 0) 1px 0 5px, rgb(39, 39, 39) 1px 0 6px;;
     text-decoration: none;
     color: rgb(255, 255, 255);
     line-height: 65px;
